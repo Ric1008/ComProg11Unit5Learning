@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f836c27b-add7-412d-a582-5c9ced8dcaf9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Set.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +65,7 @@
       <updated>1580853366180</updated>
       <workItem from="1580853371352" duration="1810000" />
       <workItem from="1582237965536" duration="973000" />
+      <workItem from="1582581136757" duration="1241000" />
     </task>
     <servers />
   </component>
@@ -79,5 +77,9 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="200" y="8" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1580853974838" />
+    <state x="428" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1582582114271">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="428" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1582582114271" />
   </component>
 </project>
